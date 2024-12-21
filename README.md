@@ -19,7 +19,7 @@ This repository contains the backend for an e-commerce platform. It includes fea
   - Place orders and track order history.
 
 - **Product Management**:
-  - CRUD operations for products.
+  - CRUD operations for products..
   - Product categories, pricing, and inventory tracking.
 
 - **Ratings & Reviews**:
